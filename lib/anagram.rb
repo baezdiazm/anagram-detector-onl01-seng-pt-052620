@@ -1,13 +1,13 @@
 # Your code goes here!
 class Anagram
 
-def initialize(word)
-@word = word
-end
+  def initialize(word)
+    @word = word
+  end
 
-def match(word)
-word.split
-end
+  def match(word)
+    word.split
+  end
 
 
 end
