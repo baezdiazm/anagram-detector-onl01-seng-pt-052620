@@ -6,7 +6,7 @@ def initialize(word)
 end
 
 def match(word)
-
+word.split
 end
 
 
